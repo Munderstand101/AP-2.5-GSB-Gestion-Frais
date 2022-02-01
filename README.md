@@ -13,10 +13,10 @@ dans les départements et territoires d'outre-mer.
 
 
 ## Tâches :
-  * Validation des fiches par le comptable :
-  * Saisie des fiches par les visiteurs :
-  * Suivi des fiches par le gestionnaire :
-  * Gestion des connexions :
+  * Validation des fiches (par le comptable)
+  * Saisie des fiches (par les visiteurs)
+  * Suivi des fiches (par le gestionnaire)
+  * Gestion des connexions (totu le monde)
 
 
 
