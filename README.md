@@ -12,5 +12,11 @@ dans les départements et territoires d'outre-mer.
 
 
 
+## Tâches :
+1 - Validation des fiches par le comptable :
+2 - Saisie des fiches par les visiteurs :
+3 - Suivi des fiches par le gestionnaire :
+4 - Gestion des connexions :
+
 
 
