@@ -51,4 +51,14 @@ besoins.
   * Gestion des connexions (totu le monde)
 
 
+## Compétences :
+Dans ce projet, nous avons mis en oeuvre les compétences suivantes :
+
+- Travailler en mode projet
+
+- Mettre à disposition des utilisateurs un service informatique
+
+Nous avons travaillé en mode projet parce que nous avons planifier les tâches à réaliser.
+Nous avons mis à disposition des utilisateurs un service informatique parce l'on a créé une application.
+
 
