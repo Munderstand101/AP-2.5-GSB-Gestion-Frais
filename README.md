@@ -32,6 +32,8 @@ laboratoire.
 Grand poste de dépense, la gestion des frais de déplacement des visiteurs demande un suivi très
 précis. L’enveloppe annuelle pour ce seul poste s’élève à près de 25 millions d’euros.
 ```
+
+## Missions :
 Le projet
 ```
 Le projet porte sur l’application de gestion des frais des visiteurs, qui est en cours de
@@ -41,8 +43,6 @@ comptable, des fiches de frais enregistrées par les visiteurs.
 Il est maintenant nécessaire de poursuivre le développement afin de répondre à l’ensemble des
 besoins.
 ```
-
-
 
 ## Tâches :
   * Validation des fiches (par le comptable)
