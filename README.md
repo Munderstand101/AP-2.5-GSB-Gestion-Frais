@@ -50,7 +50,7 @@ besoins.
   * Suivi des fiches (par le gestionnaire)
   * Gestion des connexions (totu le monde)
 
-
+<!--
 ## Compétences :
 Dans ce projet, nous avons mis en oeuvre les compétences suivantes :
 
@@ -61,4 +61,4 @@ Dans ce projet, nous avons mis en oeuvre les compétences suivantes :
 Nous avons travaillé en mode projet parce que nous avons planifier les tâches à réaliser.
 Nous avons mis à disposition des utilisateurs un service informatique parce l'on a créé une application.
 
-
+-->
